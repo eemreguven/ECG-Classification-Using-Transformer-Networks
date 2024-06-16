@@ -1,0 +1,7 @@
+jupyter
+numpy
+pandas
+scipy
+matplotlib
+wfdb
+biosppy
