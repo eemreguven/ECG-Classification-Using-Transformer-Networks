@@ -1,0 +1,6 @@
+tensorflow==2.15.0
+wfdb==4.1.2
+numpy==1.26.4
+scipy==1.13.1
+biosppy==2.2.2
+matplotlib==3.9.0
