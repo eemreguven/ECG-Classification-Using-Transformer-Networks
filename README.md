@@ -76,11 +76,6 @@ Clone this repository:
 git clone https://github.com/eemreguven/ECG-Classification-Using-Transformer-Networks.git
 cd ECG-Classification-Using-Transformer-Networks
 ```
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
 ## Usage
 Run the Jupyter notebooks in the following order for data preprocessing and model training:
 
