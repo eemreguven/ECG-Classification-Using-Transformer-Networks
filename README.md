@@ -13,7 +13,7 @@ This repository contains code for classifying ECG signals using Transformer netw
 
 ## About the Project
 
-This project aims to leverage the power of Transformer networks to classify ECG signals. The repository includes Jupyter notebooks for data preprocessing, model creation, and training. The ECG signals are processed into windows and R-peak masks to enhance the model's performance.
+This project aims to use the power of Transformer networks to classify ECG signals. The repository includes Jupyter notebooks for data preprocessing, model creation, and training. The ECG signals are processed into windows and R-peak masks to enhance the model's performance.
 
 ## Notebooks
 
@@ -25,7 +25,7 @@ This project aims to leverage the power of Transformer networks to classify ECG 
 - **Description**: Processes the PTB Diagnostic ECG Database, splitting records based on various cardiac conditions.
 - **Dataset Source**: [PTB Diagnostic ECG Database](https://physionet.org/content/ptbdb/1.0.0/)
 
-### 3. ptbxl_ecg_process.ipynb
+### 3. ptbxl_ecg_filter.ipynb
 - **Description**: Processes the PTB-XL ECG dataset, handling preprocessing and segmentation for model training.
 - **Dataset Source**: [PTB-XL Database](https://physionet.org/content/ptb-xl/1.0.3/)
 
